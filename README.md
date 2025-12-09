@@ -9,5 +9,5 @@ Mapping the:
     (c) Katmandu, Nepal;  
     (d) undecided location near Drakensburg Mountains, South Africa;  
 
-Natural Ecology <-> Cosmosemiotic <-> Human Ecology
+Natural Ecology <-> Cosmosemiotic <-> Human Ecology  
 A Double Phyllotaxonomy and self-dual mediating threshold.
