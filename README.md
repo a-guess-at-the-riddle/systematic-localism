@@ -1,7 +1,7 @@
 # systematic-localism
 Mapping the:  
 (1) Ecology/Geography;  
-(2) Skill Tree/Human Ecology;  
+(2) Subsistence Skill Tree, Vocational Opportunities, Human Ecology;  
 (3) Meaning System (Religion/Mythology/Cosmogony);
   of:  
     (a) Anaktuvak Pass, Alaska (or similar North Alaskan native village);  
