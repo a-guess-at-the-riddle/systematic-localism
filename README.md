@@ -11,3 +11,6 @@ Mapping the:
 
 Natural Ecology <-> Cosmosemiotic (Mythology) <-> Human Ecology  
 A Double Phyllotaxonomy of the Eco | Mytho | Practice Chiasmus where Mythology is the self-dual conjugation of self and other.
+
+<img width="382" height="431" alt="communication-chiasmsus" src="https://github.com/user-attachments/assets/7796bf0c-edf1-40e4-9f65-a2301fec3a1e" />
+
